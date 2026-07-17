@@ -3819,6 +3819,18 @@
     <source type="git">git+ssh://git@codeberg.org/redjard/repo.git</source>
     <feed>https://codeberg.org/redjard/repo.atom</feed>
   </repo>
+  <repo quality="experimental" status="unofficial">
+    <name>rek2-overlay</name>
+    <description lang="en">ReK2's personal overlay for custom ebuilds</description>
+    <homepage>https://codeberg.org/rek2/rek2-overlay</homepage>
+    <owner type="person">
+      <email>rek2@hispagatos.org</email>
+      <name>ReK2</name>
+    </owner>
+    <source type="git">https://codeberg.org/rek2/rek2-overlay.git</source>
+    <source type="git">git+ssh://git@codeberg.org/rek2/rek2-overlay.git</source>
+    <feed>https://codeberg.org/rek2/rek2-overlay.atom</feed>
+  </repo>
   <repo quality="experimental" status="official">
     <name>rich0</name>
     <description lang="en">Rich0's developer overlay</description>
